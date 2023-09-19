@@ -1,0 +1,30 @@
+body{
+    background-image: url(img/art.png);
+    background-size: 1920px 1080px;
+    background-repeat:no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+img{
+    width :70%;
+}
+
+.button {
+    transition-duration: 0.8s;
+    background-color:#ffffff8c ;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 2px;
+  }
+  
+.button:hover {
+    background-color: #c1ff30;
+    color: rgb(0, 0, 0);
+    box-shadow:0 0 20px #caef34;
+    border: 1px solid rgb(255, 255, 255);
+}

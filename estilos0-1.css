@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-position: right top ;
+    background-attachment: scroll;
+    background-color: rgb(170, 52, 10);
+}
+button {
+    background-color: #f9ec3f; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 26px;
+  }
+div{
+background-color: rgb(222, 142, 61);
+border: black;
+}
+img{
+    height: 1000;
+    width: 2000;
+}
